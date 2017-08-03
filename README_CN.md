@@ -1,4 +1,12 @@
-# SENZ002 Analog Piezo Disk Vibration Sensor
+# SENZ002 模拟压电陶瓷震动传感器
+
+###### 翻译
+
+> `英文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/README.md).
+
+> `中文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/README_CN.md).
+
+![](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/pic/SENZ002.jpg "SENZ002") 
 
 ### 简介
 
@@ -14,11 +22,13 @@
 
 ### 引脚图
 
-
+![](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/pic/SENZ002_2.png "引脚图") 
 
 ### 使用教程
 
 #### 连接图
+
+![](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/pic/SENZ002_3.png "连接图") 
 
 #### 示例代码
 
@@ -41,6 +51,8 @@
 ### 结果
 
 > 不对压电陶瓷片施加压力时，输出的模拟量为0；当对压电陶瓷片施加压力，输出模拟量会发送变化，而且随着压力增大而增大。
+
+![](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/pic/SENZ002_4.png "结果") 
 
 ### 更多
 
